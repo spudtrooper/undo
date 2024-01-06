@@ -37,4 +37,4 @@ Runs `yarn remove chalk`
 
 ## Notes
 
-It won't run destructive commands like `rm` or `rmdir`.
+It won't run *really* destructive commands like `rm` or `rmdir`.
