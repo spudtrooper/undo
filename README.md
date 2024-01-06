@@ -7,7 +7,7 @@ A command line tool to "undo" common commands.
 ## Installation
 
 ```sh
-yarn install https://github.com/spudtrooper/undo.git
+yarn global add https://github.com/spudtrooper/undo.git
 ```
 
 ## Usage
